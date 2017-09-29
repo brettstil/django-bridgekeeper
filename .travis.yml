@@ -5,5 +5,5 @@ python:
 env:
     - DJANGO_PACKAGE="Django>=1.10,<1.11"
     - DJANGO_PACKAGE="Django==1.11"
-install: pip install $DJANGO_PACKAGE
+install: pip install $DJANGO_PACKAGE shortuuid==0.5
 script: PYTHONPATH=. DJANGO_SETTINGS_MODULE=bridgekeeper.tests.settings django-admin test
