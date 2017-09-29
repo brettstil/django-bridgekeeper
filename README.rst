@@ -1,6 +1,10 @@
-
+===================
 django-bridgekeeper
 ===================
+
+.. image:: https://travis-ci.org/brettstil/django-bridgekeeper.svg?branch=master
+    :target: https://travis-ci.org/brettstil/django-bridgekeeper
+
 
     He who answers the five questions--three questions--may cross in safety.
 
