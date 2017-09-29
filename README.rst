@@ -1,13 +1,17 @@
-
+===================
 django-bridgekeeper
 ===================
+
+.. image:: https://travis-ci.org/brettstil/django-bridgekeeper.svg?branch=master
+    :target: https://travis-ci.org/brettstil/django-bridgekeeper
+
+A private beta app for Django 1.10+ and Python 3.5+.
+
 
     He who answers the five questions--three questions--may cross in safety.
 
     https://youtu.be/cV0tCphFMr8
 
-
-A private beta app for Django 1.10+ and Python 3.5+.
 
 Any "traveler" who "answers the questions" may pass ``BridgekeeperMiddleware``
 and "cross in safety" to the beta views.
